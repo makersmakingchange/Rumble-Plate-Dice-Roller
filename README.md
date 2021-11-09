@@ -7,15 +7,15 @@ The Rumble Plate Dice Roller allows for approximately 10oz to 22oz clear plastic
 
 # Required Skills:
 
-Soldering
-3D Printing
+ - Soldering
+ - 3D Printing
 
 # Required Components
 
-Motor
-AAA Battery Holder
-Omron Switch
-3.5mm Jack
-Clear Plastic Cup
-Dice
-3D Printed Parts
+ - Motor
+ - AAA Battery Holder
+ - Omron Switch
+ - 3.5mm Jack
+ - Clear Plastic Cup
+ - Dice
+ - 3D Printed Parts
