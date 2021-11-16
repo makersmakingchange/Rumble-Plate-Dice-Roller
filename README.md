@@ -27,6 +27,6 @@ The Rumble Plate Dice Roller allows for approximately 10oz to 22oz clear plastic
 - No supports
 - No brim
 
-#Build Instructions
+# Build Instructions
 
 This device consists of several 3D printed components and electrical components that assemble together and can be used in tandem with an assistive switch. All STL’s and documentation can be found in the downloadable maker files in the GitHub Repository.
