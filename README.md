@@ -18,6 +18,7 @@ An AT switch can be plugged into the 3.5mm jack on the side of the device to be 
 
  - Motor
  - AAA Battery Holder
+ - Velcro
  - Omron Switch
  - 3.5mm Jack
  - Clear Plastic Cup
