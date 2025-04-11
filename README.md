@@ -5,16 +5,16 @@ This switch activated dice roller utilizes a hobby motor, battery holder, Omron 
 
 The Rumble Plate Dice Roller allows for approximately 10oz to 22oz clear plastic cups. Following the assembly guide, the components can be wired and mounted, then the dice roller is all ready to use! It is an easy toy to make that allows people to roll the dice in an alternative way.
 
-# Usage
+## Usage
 
 An AT switch can be plugged into the 3.5mm jack on the side of the device to be used for activation. Alternatively, the on-device switch can be used for activation. The on-device button would be meant more for others playing around the table who are able to reach over and wrap their hands around the base to push the button. With the additional print of the vertical push base, the on-device button can be used to turn the device itself into the activation button such that anyone around the table can push on to top of  the clear cup to roll the dice. This on-device button can be used in tandem with the corded AT switch.
 
-# Required Skills:
+## Required Skills:
 
  - Soldering
  - 3D Printing
 
-# Required Components
+## Required Components
 
  - Motor
  - AAA Battery Holder
@@ -25,13 +25,17 @@ An AT switch can be plugged into the 3.5mm jack on the side of the device to be 
  - Dice
  - 3D Printed Parts
 
-# Printing Instructions
+## Printing Instructions
 
 - Print the STL files in their given orientations
 - 0.3 mm Layer height
 - No supports
 - No brim
 
-# Build Instructions
+## Build Instructions
 
 This device consists of several 3D printed components and electrical components that assemble together and can be used in tandem with an assistive switch. All STL’s and documentation can be found in the downloadable maker files in the GitHub Repository.
+
+<!-- ABOUT MMC START -->
+
+<!-- ABOUT MMC END -->
